@@ -54,6 +54,9 @@ O layout da aplicação está disponível no [Figma](https://www.figma.com/file/
 - Clone esse repositório;
 - Vá para a pasta backend `cd backend`;
 - Execute o comando para instalar as dependências, como `npm install` ou `yarn`;
+- Crie um database no PostgreSQL com o nome "flora";
+- Atualize o arquivo ormconfig.json com o usuário e senha do seu banco;
+- Execute as migrations com o comando `yarn typeorm migration:run`;
 - Inicie o backend rodando o comando `yarn dev:server` ou `npm dev:server`, seu backend vai iniciar na porta 3333;
 - Abra um novo terminal na pasta raiz do projeto e então vá até a pasta web `cd web`;
 - Execute o comando para instalar as dependências, como `npm install` or `yarn`;
