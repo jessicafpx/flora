@@ -4,7 +4,7 @@
 
 <img src="./assets/flora.gif" alt="Gif of application"/>
 
-# 🌱 Flora: plant shop
+# 🌱 Flora: plant e-commerce
 This is a plant e-commerce project to reinforce studied concepts of contemporary web development.
 The project consists of two levels of access, the administrative and the customer. On the part of the administrator, it is possible to register and control the products available in e-commerce. In the customer section there is the product listing and the shopping cart to simulate sales.
 
